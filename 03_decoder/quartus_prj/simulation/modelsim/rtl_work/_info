@@ -1,0 +1,68 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/fpga/decoder/quartus_prj/simulation/modelsim
+T_opt
+!s110 1662303064
+VOQA]1T:53KY=_j?o9_>941
+04 13 4 work tb_decoder3_8 fast 0
+=1-5811222cf91b-6314bb57-364-267c
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vdecoder3_8
+Z2 !s110 1662303063
+!i10b 1
+!s100 EeBY5>X5o]580>Wc[noYi3
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IWO1k]]^zP]XHPkTQ]_el10
+R0
+w1662300702
+8E:/fpga/decoder/rtl/decoder.v
+FE:/fpga/decoder/rtl/decoder.v
+!i122 0
+L0 1 27
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1662303063.000000
+!s107 E:/fpga/decoder/rtl/decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/fpga/decoder/rtl|E:/fpga/decoder/rtl/decoder.v|
+!i113 0
+Z7 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+E:/fpga/decoder/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtb_decoder3_8
+R2
+!i10b 1
+!s100 aeJT_K;OfWMTdAUbOo>WP1
+R3
+IJDg`?:M73Un3nDQFIh5[c2
+R0
+w1662303017
+8E:/fpga/decoder/quartus_prj/../sim/tb_decoder3_8.v
+FE:/fpga/decoder/quartus_prj/../sim/tb_decoder3_8.v
+!i122 1
+L0 2 32
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/fpga/decoder/quartus_prj/../sim/tb_decoder3_8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/fpga/decoder/quartus_prj/../sim|E:/fpga/decoder/quartus_prj/../sim/tb_decoder3_8.v|
+!i113 0
+R7
+!s92 -vlog01compat -work work +incdir+E:/fpga/decoder/quartus_prj/../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
