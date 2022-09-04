@@ -31,6 +31,29 @@ r1
 !i113 0
 Z3 o-nologo -work {E:\FPGA} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
 Z4 tCvgOpt 0
+vhalf_adder
+!s110 1662305742
+!i10b 1
+!s100 5CA_I8:GbL56l<A;oZS3U0
+R0
+Ig28;>j=SFgn^9a1WBJB9S2
+de:/fpga/04_half_adder/rtl
+w1662305742
+8e:\fpga\04_half_adder\rtl\half_adder.v
+Fe:\fpga\04_half_adder\rtl\half_adder.v
+!i122 69
+L0 1 12
+R1
+R2
+r1
+!s85 0
+31
+!s108 1662305742.000000
+!s107 e:\fpga\04_half_adder\rtl\half_adder.v|
+!s90 -nologo|-work|E:\FPGA|e:\fpga\04_half_adder\rtl\half_adder.v|
+!i113 0
+R3
+R4
 vtb_decoder3_8
 !s110 1662304356
 !i10b 1
@@ -51,6 +74,29 @@ r1
 !s108 1662304356.000000
 !s107 e:\fpga\03_decoder\sim\tb_decoder3_8.v|
 !s90 -nologo|-work|E:\FPGA|e:\fpga\03_decoder\sim\tb_decoder3_8.v|
+!i113 0
+R3
+R4
+vtb_half_adder
+!s110 1662306725
+!i10b 1
+!s100 1;@LRg;TWZoo84HVhEKI]3
+R0
+IhTPb_1Ue[kIX^7dIYGBP62
+de:/fpga/04_half_adder/sim
+w1662306725
+8e:\fpga\04_half_adder\sim\tb_half_adder.v
+Fe:\fpga\04_half_adder\sim\tb_half_adder.v
+!i122 82
+L0 2 21
+R1
+R2
+r1
+!s85 0
+31
+!s108 1662306725.000000
+!s107 e:\fpga\04_half_adder\sim\tb_half_adder.v|
+!s90 -nologo|-work|E:\FPGA|e:\fpga\04_half_adder\sim\tb_half_adder.v|
 !i113 0
 R3
 R4
